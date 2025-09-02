@@ -1,0 +1,1 @@
+# hibernatexml-530
